@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "virta",
+    "packageName": "fi.devolon.vitra",
+    "packageFolder": "fi/devolon/vitra",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "MTc4NGFkZjNkMGU1YTlmNjFjODZlMGM2M2VjYTZhYTNlNmFlMzMzNzI1NzVhZmI0NjA1MDJhOWE3MjYyODY4ZmQwZDU2NzM2Mjg1NWYyMmZiNDUyN2U4YTk5NjU5ODNkMjE4NzVmNjBkZjIzNDYwODA2NTcwNjc5NTMzYzI4NjE=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "parian66",
+  "repository-name": "virta-application"
+}
